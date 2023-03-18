@@ -22,7 +22,7 @@ concrete tokens.
 *   [x] **[small][size]** (smallest CM parser that exists)
 *   [x] **[robust][test]** (1800+ tests, 100% coverage, fuzz testing)
 
-## When to use this
+## When to use this ok
 
 *   If you *just* want to turn markdown into HTML (with maybe a few extensions)
 *   If you want to do *really complex things* with markdown
